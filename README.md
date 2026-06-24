@@ -195,16 +195,6 @@ interests:
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushman120205&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -212,7 +202,7 @@ interests:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushman120205)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Aayushman120205)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayushman120205)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushmansingh120205@gmail.com)
 
 </div>
 
