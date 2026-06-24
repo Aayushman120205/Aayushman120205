@@ -25,7 +25,7 @@ graduation: 2027
 currently:
   - 🔭 Developer Intern @ Taikisha Engineering India Pvt. Ltd.
   - 🌱 Building AI-powered tools & full-stack applications
-  - ⚔️  LeetCode Knight | Rating: 1896 | 500+ DSA problems solved
+  - ⚔️  LeetCode Knight | Rating: 1897 | 650+ DSA problems solved
   - 🏆 1st Runner-Up in college Hackathon (Dcode Society)
   - 🎯 JEE Advanced Cleared | 99 percentile in JEE Main
 
@@ -131,9 +131,9 @@ interests:
 
 | 🏅 Badge | 📊 Stats |
 |---|---|
-| ⚔️ **Knight** | Rating **1896** |
-| ✅ **LeetCode** | 500+ problems solved |
-| 🔵 **Code360** | 200+ problems solved |
+| ⚔️ **Knight** | Rating **1897** |
+| ✅ **LeetCode** | 650+ problems solved |
+| 🔵 **Code360** | 300+ problems solved |
 
 </div>
 
@@ -183,7 +183,7 @@ interests:
 | 🥇 Achievement | 📄 Details |
 |---|---|
 | ⚔️ **LeetCode Knight** | Rating **1896** — Top competitive programmers tier |
-| 🧩 **500+ DSA Problems** | Solved on LeetCode + 200+ on Code360 |
+| 🧩 **650+ DSA Problems** | Solved on LeetCode + 300+ on Code360 |
 | 🥈 **Hackathon Runner-Up** | 1st Runner-Up @ Dcode Society Hackathon, NSUT |
 | 🎓 **JEE Advanced Cleared** | 99 percentile in JEE Main — one of the world's toughest exams |
 | 🏗️ **AI CI/CD Bot** | Built a fully autonomous self-healing pipeline with AI + Docker |
