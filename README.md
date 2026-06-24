@@ -122,8 +122,8 @@ interests:
 ## ⚔️ LeetCode Stats
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Aayushman120205?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" width="70%"/>
+  
+<img src="./snake-heatmap.svg" width="80%" alt="LeetCode activity heatmap with snake animation"/>
 
 </div>
 
